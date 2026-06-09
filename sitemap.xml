@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://constantinyb.github.io/2026/06/09/xiao-yuan-yun-da-yin-fu-wu-xi-tong-xiang-mu-tu-pian/</loc>
+    
+    <lastmod>2026-06-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://constantinyb.github.io/2026/06/09/xiao-yuan-yun-da-yin-xi-tong-gong-neng-xiang-jie/</loc>
     
     <lastmod>2026-06-09</lastmod>
@@ -83,6 +92,20 @@
 
   
   <url>
+    <loc>https://constantinyb.github.io/tags/SpringBoot/</loc>
+    <lastmod>2026-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://constantinyb.github.io/tags/%E9%A1%B9%E7%9B%AE%E5%89%8D%E7%AB%AF%E8%BF%90%E8%A1%8C%E5%9B%BE%E7%89%87%E5%9B%BE%E7%89%87/</loc>
+    <lastmod>2026-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://constantinyb.github.io/tags/Spring-Boot/</loc>
     <lastmod>2026-06-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -97,6 +120,13 @@
   </url>
   
 
+  
+  <url>
+    <loc>https://constantinyb.github.io/categories/%E9%A1%B9%E7%9B%AE%E5%89%8D%E7%AB%AF%E8%BF%90%E8%A1%8C%E5%9B%BE%E7%89%87/</loc>
+    <lastmod>2026-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>https://constantinyb.github.io/categories/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/</loc>
